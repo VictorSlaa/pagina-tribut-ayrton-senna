@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'Branch';
-	src: url('./fonts/BRANCH.OTF') format('opentype'),
-		 url('./fonts/BRANCH.TTF') format('truetype');
+	src: url('BRANCH.OTF') format('opentype'),
+		 url('BRANCH.TTF') format('truetype');
   }
   
 
